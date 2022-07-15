@@ -4,7 +4,7 @@ pip install latexman
 ```
 
 # Quick Start
-In LaTeX (as opposed to classic TeX) You should use \\(123\\) and \\[ 123\\] environments instead of \$ 123 \$ and \$ \$ 123 \$ \$ respectively. 
+In LaTeX (as opposed to classic TeX) You should use \\(123\\) and \\[ 123\\] environments instead of \$ 123 \$ and \$ \$ 123 \$ \$ respectively.
 
 See https://tex.stackexchange.com/questions/510/are-and-preferable-to-dollar-signs-for-math-mode
 
