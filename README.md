@@ -8,7 +8,7 @@ In LaTeX (as opposed to classic TeX) You should use \\(123\\) and \\[ 123\\] env
 
 See https://tex.stackexchange.com/questions/510/are-and-preferable-to-dollar-signs-for-math-mode
 
-The function `convert_dollar_sign_to_latex_counterpart()` helps converting \$123\$ in math mode to \\(123\\) and \$$123$$ to \\[123\\]
+The function `convert_dollar_sign_to_latex_counterpart()` helps converting.
 ```
 from latexman import convert_dollar_sign_to_latex_counterpart as conv
 
